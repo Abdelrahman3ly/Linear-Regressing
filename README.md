@@ -1,4 +1,4 @@
-# Linear-Regressing
+# Linear-Regression
 
 This model for regression in machine learning , it is used to predict new value
 based on previous training data that contain:
